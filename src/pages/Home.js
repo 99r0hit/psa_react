@@ -13,7 +13,7 @@ const Home = () => {
       <section className="hero text-center">
         <div className="container">
           <h1 data-i18n="hero_title">Welcome to PSA Agrosciences</h1>
-          <p className="lead" data-i18n="hero_subtitle">Pioneering Sustainable Agriculture through Scientific Innovation</p>
+          <p className="lead" data-i18n="hero_subtitle">Pioneering Sustainable Agriculture through Scientific Innovations</p>
           <a href="#features" className="btn btn-primary mt-3 btn-hover" data-i18n="btn_explore">Explore More</a>
         </div>
       </section>
